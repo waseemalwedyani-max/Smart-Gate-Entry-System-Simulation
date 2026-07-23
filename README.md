@@ -61,3 +61,4 @@ This code relies on standard Arduino libraries that are built-in:
 4. Copy the provided `C++` code and paste it into the `sketch.ino` editor.
 5. Click the **Play (▶)** button to start the simulation.
 6. **Trigger the System:** Click on the Ultrasonic Sensor. A slider will appear. Drag the distance slider to **below 50 cm** to simulate a car pulling up to the gate. Watch the automated sequence unfold!
+<img width="309" height="210" alt="Screenshot 2026-07-23 062948" src="https://github.com/user-attachments/assets/dd84914e-1317-4afa-8ffb-d89f001b19d7" />
