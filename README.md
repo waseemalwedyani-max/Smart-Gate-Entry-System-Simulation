@@ -1,4 +1,5 @@
 # Smart Gate Entry System Simulation
+<img width="883" height="762" alt="Screenshot 2026-07-23 062124" src="https://github.com/user-attachments/assets/70f2d2a0-5fb9-4b1d-9c9b-258bae3f3efb" />
 
 ## 🔗 Simulation Link
 **[https://wokwi.com/projects/470304920857053185]**
